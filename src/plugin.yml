@@ -1,0 +1,6 @@
+name: BedWars
+version: 1.0
+main: de.simon.bedwars.main.Main
+
+commands:
+   start:
